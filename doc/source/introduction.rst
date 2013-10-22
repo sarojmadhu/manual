@@ -159,7 +159,7 @@ Help Ticketing System:
     be looking into the ticket and working on it. You will receive updates
     and resolution through email upon the completion of the investigation.
     Please be aware that feedback may not be instantaneous. Tickets you have
-    submitted can viewed in your
+    submitted can be viewed in your
 
     -  `ticket list <https://portal.futuregrid.org/tickets>`__.
 
