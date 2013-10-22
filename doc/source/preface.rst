@@ -146,6 +146,6 @@ Man page:
 
 .. role:: rubric
 
-.. |portalname| replace:: **portalname** :rubric:`red`
+.. |portalname| replace:: **portalname**
 
 .. |localname| replace:: **localname**
