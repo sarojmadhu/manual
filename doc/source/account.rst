@@ -41,9 +41,8 @@ Valid Project:
   valid project is one that is approved by a committee. If you are not
   in a valid, active project your access to FutureGrid will be
   blocked. Projects that do not report any progress will be blocked
-  after a while. Note that you agree to update us with regular
-  results reported via the portal as part of your agreement to
-  use FutureGrid. 
+  after a while. Note that you agree to update regular results via the 
+  portal as part of your agreement to use FutureGrid. 
 
 Project Lead:
    The Project Lead submits a project and is responsible for updating
@@ -61,7 +60,7 @@ Project  Member:
 
 Project  Alumni:
    Sometimes project members leave a project before it is
-   completed. SUch members are no longer part of the project and
+   completed. Such members are no longer part of the project and
    should not have access to the project. However they can still be
    acknowledged to have played a role as part of the project while
    they are placed into the alumni role.
@@ -99,8 +98,8 @@ For XSEDE users:
 #. Please go to the `XSEDE portal <http://www.xsede.org>`__ and apply for an XSEDE portal
    account.
 #. Create a new project as documented in the :portal:`XSEDE portal allocations page
-   <ions>` or ask you XSEDE project lead
-   to join you to the project.
+   <ions>` or ask your XSEDE project lead
+   to add you to the project.
 #. It will take some time to get your account activated 
 
 
