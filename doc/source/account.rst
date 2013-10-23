@@ -610,7 +610,7 @@ Mini FAQ
 
 * Why Do I See in the Project Table "Please Sign Up"? 
 
-  - If you are thw owner of a project and see this information under
+  - If you are the owner of a project and see this information under
     project lead or manager, you may not yet have signed up for a
     portal account. Please sign up for one, and we will change it in
     the project view for you.
