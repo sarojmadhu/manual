@@ -49,32 +49,32 @@ SSH Add
 ^^^^^^^^^
 
 Sometimes you may wish to log in repeatedly in other machines while
-using a cahced password. To do that you can use ssh agent and ssh
-add. First strt the agent::
+using a cached password. To do that you can use ssh agent and ssh
+add. First start the agent::
 
   eval `ssh-agent`
 
-Than add your key with 
+Then add your key with 
 
   ssh-add
 
-Follow the instructions on the screen. Thus before you ssh in you may
+Follow the instructions on the screen. Thus before you ssh in, you may
 want to use ssh agent. This way you do not have to repeatedly type in
 your key password.
 
 SSH Config
 ^^^^^^^^^^^
 
-Also you may want to set your ~/.ssh/config file to create shortcust
+Also you may want to setup your ~/.ssh/config file to create shortcut
 for the username and hosts on which you want to log in. Let us assume
-your username is albert, than the folloing lines in the .ssh/config
+your username is albert, then add the following lines in the .ssh/config
 file::
 
     Host india
           Hostname india.futuregrid.org
           User albert
 
-willl allow you to log into the machine just while typing in::
+This will allow you to log into the machine just while typing in::
 
    ssh india
 
