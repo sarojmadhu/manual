@@ -45,14 +45,14 @@ GenesisII can be found `here <http://www.genesis2.virginia.edu/wiki>`__.
 -  Interoperable with other Grid technologies to enable a coupling of
    Grid infrastructures or the user's needs
 
--  End user focused. Whenever possible GenesisII was designed to use
+-  End user focused. GenesisII was mostly designed to use
    concepts already familiar to users (such as hierarchical directory
    structures) and to provide easy to use commands and GUIs to simplify
    the user's experience.  GenesisII provides a number of commands based
-   on familiar UNIX tools and provides GUIs in order to browse the grid
+   on familiar UNIX tools and provides GUIs to browse the grid
    directory structure, monitor jobs, create JSDL job descriptions, etc.
 
--  Strong security mechanisms built in from the ground up.  Flexible
+-  Strong security mechanisms built-in from the ground up.  Flexible
    access control for all grid resources.  Support for X.509
    certificates and username/password (based on WS-Security and OGF
    Basic Security Profile).  Support for virtual organizations via
