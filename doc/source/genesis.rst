@@ -38,18 +38,18 @@ GenesisII can be found `here <http://www.genesis2.virginia.edu/wiki>`__.
    ByteIO, WS-Security, WS-Naming, WS-Trust, and Job Submission
    Description Language (JSDL).
 
--  Open and extensible realized with a modern Service- Oriented
+-  Open and extensible realized with a modern Service-Oriented
    Architecture (SOA), which allows to easily replace particular
    components with others.
 
 -  Interoperable with other Grid technologies to enable a coupling of
-   Grid infrastructures or the users needs
+   Grid infrastructures or the user's needs
 
 -  End user focused. Whenever possible GenesisII was designed to use
    concepts already familiar to users (such as hierarchical directory
    structures) and to provide easy to use commands and GUIs to simplify
    the user's experience.  GenesisII provides a number of commands based
-   on familiar UNIX tools and provides GUIs for to browse the grid
+   on familiar UNIX tools and provides GUIs in order to browse the grid
    directory structure, monitor jobs, create JSDL job descriptions, etc.
 
 -  Strong security mechanisms built in from the ground up.  Flexible
